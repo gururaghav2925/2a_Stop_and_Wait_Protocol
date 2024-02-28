@@ -42,9 +42,10 @@ while True:
         break
 
 ## OUTPUT
+![Screenshot 2024-02-28 143524](https://github.com/gururaghav2925/2a_Stop_and_Wait_Protocol/assets/151489500/1d4c1073-95a5-477c-a7fc-41d357922524)
 
-![Screenshot 2024-02-28 114202](https://github.com/gururaghav2925/2a_Stop_and_Wait_Protocol/assets/151489500/90ed6b2e-2859-49f0-b676-9e0d76eb31f5)
-![Screenshot 2024-02-28 114145](https://github.com/gururaghav2925/2a_Stop_and_Wait_Protocol/assets/151489500/a03a8f24-30c7-46dc-889e-8e781cf9e631)
+![Screenshot 2024-02-28 143533](https://github.com/gururaghav2925/2a_Stop_and_Wait_Protocol/assets/151489500/5a146fc1-3416-433c-bc23-ec3b28c8e1a4)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
